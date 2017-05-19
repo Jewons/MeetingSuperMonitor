@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<relayList>
+	<relayInfo>
+		<ip>10.130.68.152:33537</ip>
+		<id>11</id>
+	</relayInfo>
+	<relayInfo>
+		<ip>10.130.68.152:33538</ip>
+		<id>12</id>
+	</relayInfo>
+</relayList>
+

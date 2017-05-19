@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MeetingSuperMonitor"
+  id="myeclipse.1477552430020"
+  context-root="/MeetingSuperMonitor"
+  j2ee-spec="6.0"
+  archive="MeetingSuperMonitor.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
